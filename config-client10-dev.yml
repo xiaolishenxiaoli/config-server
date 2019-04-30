@@ -1,0 +1,5 @@
+# 本地配置文件, 用作 eureka-client 工程的 dev （开发环境〉的配置文件
+server:
+  port: 8762
+
+foo: foo version 4
